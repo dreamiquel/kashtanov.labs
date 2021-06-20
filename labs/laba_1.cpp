@@ -15,7 +15,7 @@ int main()
     bool there = true;
     double A, B;
     double X, Y, result;
-    float   x, y;
+    
 
     cout << " Enter X: " << endl;
     cin >> X;
